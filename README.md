@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TasinZX
 - 👀 I’m interested in web develop
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
